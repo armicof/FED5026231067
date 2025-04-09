@@ -3,11 +3,11 @@
     transform: translateY(-4px);
   }
 .bg-pict {
-   background-image: url('/Assets/profilepict.png');
+   background-image: url('/Assets/bg.png');
    background-size: cover;
-   background-position: fill;
+   background-position: fix;
    filter: blur(1000px);
-   height: 200vh;
+   height: auto;
    z-index: 1;
   }
 .pp {
