@@ -1,16 +1,1 @@
-.shadow-hover:hover {
-    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
-    transform: translateY(-4px);
-  }
-.bg-pict {
-   background-image: url('/Assets/bg.png');
-   background-size: cover;
-   background-position: fix;
-   filter: blur(1000px);
-   height: auto;
-   z-index: 1;
-  }
-.pp {
-    width: 96px;
-    height: 96px;
-}
+
